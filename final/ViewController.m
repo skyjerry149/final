@@ -26,4 +26,10 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)button2:(id)sender {
+    _aLabel.text=@"林紀業";
+}
+- (IBAction)button1:(id)sender {
+    _aLabel.text=@"200417045";
+}
 @end
